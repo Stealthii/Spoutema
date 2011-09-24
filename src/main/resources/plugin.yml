@@ -1,0 +1,13 @@
+author: Stealthii
+database: false
+description: "Tema (\u30C6\u30DE) or Te-ma (\u30C6\u30FC\u30DE) means theme, or topic.\
+  \ Spoutema is a plugin that will let you do just that. Features include:\r\n\r\n\
+  Apply texture packs and background audio to areas\r\nShow welcome messages\r\nWorldguard\
+  \ region support\r\nThis plugin is currently in development. A release should be\
+  \ available soon. Until then the source code is freely available on GitHub."
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: net.stealthii.spoutema.Spoutema
+name: Spoutema
+startup: postworld
+url: http://stealthii.net/
+version: 0.0.1
