@@ -55,8 +55,8 @@
             </snapshots>
         </repository>
          <repository>
-            <id>craftfire-dbrepo</id>
-            <url>http://dbrepo.craftfire.com/repo</url>
+            <id>sk89q-mvn2</id>
+            <url>http://mvn2.sk89q.com/repo</url>
         </repository>
         <repository>
             <id>nuxeo-repo</id>
